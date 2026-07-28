@@ -43,11 +43,12 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
+<img width="580" height="410" alt="WhatsApp Image 2026-07-28 at 2 03 52 PM" src="https://github.com/user-attachments/assets/0395b48d-c5ed-4004-ae0a-5116e06e680c" />
 
 
 cat < file2
 ## OUTPUT
-
+<img width="780" height="484" alt="WhatsApp Image 2026-07-28 at 2 03 22 PM" src="https://github.com/user-attachments/assets/f091d35a-5733-4861-81da-0154ac593926" />
 
 # Comparing Files
 cmp file1 file2
