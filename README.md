@@ -375,6 +375,7 @@ www. mrcet.... com
  ```
 cat urllist.txt | tr -d ' '
  ## OUTPUT
+<img width="412" height="122" alt="image" src="https://github.com/user-attachments/assets/caafc6e1-6c5a-4528-a19a-240eed72f83b" />
 
 
  
