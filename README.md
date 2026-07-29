@@ -1159,7 +1159,8 @@ else
 fi
 ```
 ## OUTPUT 
-![63](img/98.png)
+<img width="357" height="123" alt="image" src="https://github.com/user-attachments/assets/fe8688d5-3735-46a0-a6fc-fd3640b42de1" />
+
 
 # RESULT:
 The Commands are executed successfully.
